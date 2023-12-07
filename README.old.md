@@ -1,2 +1,0 @@
-# bootqlass
-the tech fellowship 
